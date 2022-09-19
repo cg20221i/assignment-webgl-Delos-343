@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title> WebGL Assignment 01 | GrafKom IF ITS 20 </title>
+
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body>
+        <div class="bg-[url('./assets/hero-bg.gif')] w-full h-screen relative bg-cover bg-no-repeat text-white">
+            <div class="absolute top-0 left-0 right-0 bottom-0 w-full h-screen bg-black/70 z-[1]"></div>
+            <nav class="absolute top-0 left-0 right-0 flex items-center justify-between space-evenly py-10 px-7 z-[2]">
+                <div class="container">
+                    <h1> GRAFKOM &nbsp; ITS &nbsp; IF &nbsp; 2020 </h1>
+                </div>
+                <div class="container ml-20 hidden sm:block">
+                    <ul class="flex items-center space-x-10 text-2xl">
+                        <li>
+                            <a href="index.html"> Home </a>
+                        </li>
+                        <li>
+                            <a href="#deviSyafira"> Canvas </a>
+                        </li>
+                        <li>
+                            <a href="#"> Contact </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <canvas id="deviSyafira"></canvas>
+        </div>
+        <footer class="absolute bottom-0 left-0 right-0 flex w-full justify-between py-14 bg-transparent z-[3]">
+            <div class="container flex items-center justify-flex-start">
+                <h1 class="font-semibold text-xs md:text-2xl lg:text-6xl text-center sm:text-left text-white px-7"> OOGA &nbsp; BOOGA </h1>
+            </div>
+        </footer>
+    </body>
+    <script src="main.js"></script>
+</html>

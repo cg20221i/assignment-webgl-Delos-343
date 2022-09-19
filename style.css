@@ -1,0 +1,17 @@
+
+html, body {
+    width: 100%;
+    padding: 0;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    overflow-x: hidden;
+}
+
+#deviSyafira {
+    position: absolute;
+    z-index: 4;
+    border: 2px solid #ffd500;
+    top: 25%;
+    left: 50%;
+    width: 50rem;
+    overflow-x: hidden;
+}
