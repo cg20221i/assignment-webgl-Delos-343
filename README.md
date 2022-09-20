@@ -16,6 +16,6 @@
 
   <br><br>
   
-![screenshot-test](assets/127.0.0.1_5500_(Nest Hub).png)
+![screenshot-test](./assets/127.0.0.1_5500_(Nest Hub).png)
 
   <br>
