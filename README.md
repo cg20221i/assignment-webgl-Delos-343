@@ -16,6 +16,6 @@
 
   <br><br>
   
-![screenshot-test](./assets/127.0.0.1_5500_(Nest Hub).png)
+![screenshot-test]([./assets/127.0.0.1_5500_(Nest Hub).png](https://github.com/cg20221i/assignment-webgl-Delos-343/blob/00bde0992c05b512aee6fed13c4f202d4343c59e/assets/127.0.0.1_5500_(Nest%20Hub).png))
 
   <br>
