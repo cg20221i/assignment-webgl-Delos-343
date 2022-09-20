@@ -6,12 +6,11 @@ html, body {
     overflow-x: hidden;
 }
 
-#deviSyafira {
+#adeliAriza {
     position: absolute;
     z-index: 4;
-    border: 2px solid #ffd500;
     top: 25%;
-    left: 50%;
+    left: 39%;
     width: 50rem;
     overflow-x: hidden;
 }
